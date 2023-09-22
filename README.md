@@ -10,11 +10,11 @@ Bu uygulama döviz (dolar, euro, sterlin, altın) değerlerini görebileceğiniz
 
 #### Main App
 ![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/screenshot/app.png)
-> `Uygulama Ekranı`  
+> `Uygulama Ekranı`
 
 #### Customized App
 ![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/custom/screenshot/start.png)
-> `Açılış Ekranı`  
+> `Açılış Ekranı`
 
 ![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/custom/screenshot/functional1.png)
 > `Fonksiyonel Ekran`
@@ -23,3 +23,4 @@ Bu uygulama döviz (dolar, euro, sterlin, altın) değerlerini görebileceğiniz
 > `Fonksiyonel Ekran`  
 
 >  `Döviz biriminin arka plan rengi yükseliş veya düşüşüne göre belirlenir.`
+</p>
