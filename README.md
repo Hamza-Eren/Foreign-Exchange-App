@@ -1,18 +1,18 @@
-### Kullanılan kütüphaneler
+## Kullanılan kütüphaneler
 * tkinter
 * requests
 * bs4
 
-### Açıklama:
+## Açıklama:
 Bu uygulama döviz (dolar, euro, sterlin, altın) değerlerini görebileceğiniz bir uygulamadır.
 
-### Örnek Resimler
+## Örnek Resimler
 
-#### Main App
+### __*Main App*__
 ![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/screenshot/app.png)
 > `Uygulama Ekranı`
 
-#### Customized App
+### __*Customized App*__
 ![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/custom/screenshot/start.png)
 > `Açılış Ekranı`
 
