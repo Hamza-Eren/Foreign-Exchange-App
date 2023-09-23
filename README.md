@@ -23,4 +23,3 @@ Bu uygulama döviz (dolar, euro, sterlin, altın) değerlerini görebileceğiniz
 > `Fonksiyonel Ekran`  
 
 >  `Döviz biriminin arka plan rengi yükseliş veya düşüşüne göre belirlenir.`
-</p>
